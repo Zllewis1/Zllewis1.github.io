@@ -3,7 +3,7 @@
 
 Email: Zacharylew777@gmail.com 
 
-[LinkedIn](linkedin.com/in/zachary-lewis-655365297)
+[LinkedIn](linkedin.com/in/zachary-lewis-655365297/)
 
 ## Summary
 - I am a recent Political Science graduate from California State University San Marcos with hands-on experience in public policy research, nonprofit advocacy, and student leadership. I enjoy turning research into action, improving how organizations run, and supporting the people around me.
@@ -70,13 +70,13 @@ Email: Zacharylew777@gmail.com
 
 ## How to Make a Subfolder
 
-![How to make a subpage like this](https:zllewis1.github.io/portfolioguide/)
+[How to make a subpage like this](https:zllewis1.github.io/portfolioguide/)
 
 ## Completed Projects
 
 This Link will take you to my complete projects page
 
-![Completed Projects](https://zllewis1.github.io/Projects-Folder/) 
+[Completed Projects](https://zllewis1.github.io/Projects-Folder/) 
 
 ## Skills
 
