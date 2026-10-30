@@ -1,7 +1,9 @@
 # Zachary Lewis
-Political Science graduate | Advocacy | Policy Research | Student Leadership
+**Masters Program Student**
 
-Email: Zacharylew777@gmail.com LinkedIn: linkedin.com/in/zachary-lewis-655365297
+Email: Zacharylew777@gmail.com 
+
+LinkedIn: linkedin.com/in/zachary-lewis-655365297
 
 ## Summary
 - I am a recent Political Science graduate from California State University San Marcos with hands-on experience in public policy research, nonprofit advocacy, and student leadership. I enjoy turning research into action, improving how organizations run, and supporting the people around me.
@@ -11,8 +13,9 @@ Email: Zacharylew777@gmail.com LinkedIn: linkedin.com/in/zachary-lewis-655365297
 ### Education
 **California State University San Marcos**
 
-*Bachelor of Arts in Political Science (May 2026)*
-*Masters of Science in Supply Chain Analytics (August 2027)*
+- *Bachelor of Arts in Political Science (May 2026)*
+
+- *Masters of Science in Supply Chain Analytics (August 2027)*
 
 ### Relevant coursework:
 
@@ -72,7 +75,8 @@ Email: Zacharylew777@gmail.com LinkedIn: linkedin.com/in/zachary-lewis-655365297
 - Researched the political and environmental factors behind climate challenges in Greece
 - Focused on energy policy, economic pressures, and government response
 - Created a website and presentation showing how political institutions and international agreements shaped Greece's sustainability landscape
-The Website: https://greekwaterpollution.weebly.com
+
+**The Website: https://greekwaterpollution.weebly.com**
 
 
 ## Skills
