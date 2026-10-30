@@ -70,7 +70,7 @@ Email: Zacharylew777@gmail.com
 
 ## How to Make a Subfolder
 
-[How to make a subpage like this](https://zllewis1.github.io/portfolioguide/)
+[How to make a subpage like this](https://zllewis1.github.io/portfolio-guide/)
 
 ## Completed Projects
 
