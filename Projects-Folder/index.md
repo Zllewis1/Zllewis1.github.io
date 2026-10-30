@@ -5,4 +5,4 @@
 - Focused on energy policy, economic pressures, and government response
 - Created a website and presentation showing how political institutions and international agreements shaped Greece's sustainability landscape
 
-**The Website: https://greekwaterpollution.weebly.com**
+[Greek Water Pollution Website](https://greekwaterpollution.weebly.com)
