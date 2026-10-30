@@ -71,13 +71,9 @@ LinkedIn: linkedin.com/in/zachary-lewis-655365297
 
 ## Completed Projects
 
-**Greece Climate Research Website (Nov 2025)**
-- Researched the political and environmental factors behind climate challenges in Greece
-- Focused on energy policy, economic pressures, and government response
-- Created a website and presentation showing how political institutions and international agreements shaped Greece's sustainability landscape
+This Link will take you to my complete projects page
 
-**The Website: https://greekwaterpollution.weebly.com**
-
+(https://zllewis1.github.io/Projects-Folder/) 
 
 ## Skills
 
