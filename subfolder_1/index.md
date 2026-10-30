@@ -55,6 +55,19 @@ Here is a list of elements that can be used
 5. Press Commit changes and commit changes again
 
 *Congrats you have made a subpage*
+## Screenshots
+
+### E-Portfolio
+![E-Portfolio](E-Portfolio.png)
+
+### Repository
+![Repository](Repository.png)
+
+### How to Markdown
+![How to Markdown](index.markdown.png)
+
+### How to clone
+![How to clone](cloning.png)
 
 ## Resources Used
 - GitHub Pages
