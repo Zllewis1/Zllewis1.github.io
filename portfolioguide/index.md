@@ -76,6 +76,6 @@ Here is a list of elements that can be used
 
 ## Links
 
-1. GitHub - GitHub.com
+1. [GitHub](GitHub.com)
 
-2. Theme Minimal - https://github.com/pages-themes/minimal 
+2. [Theme Minimal](https://github.com/pages-themes/minimal) 
