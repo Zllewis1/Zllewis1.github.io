@@ -1,123 +1,96 @@
----
-layout: default
----
+# Zachary Lewis
+Political Science graduate | Advocacy | Policy Research | Student Leadership
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Email: Zacharylew777@gmail.com LinkedIn: linkedin.com/in/zachary-lewis-655365297
 
-[Link to another page](./another-page.html).
+## Summary
+- I am a recent Political Science graduate from California State University San Marcos with hands-on experience in public policy research, nonprofit advocacy, and student leadership. I enjoy turning research into action, improving how organizations run, and supporting the people around me.
 
-There should be whitespace between paragraphs.
+- Looking for opportunities where I can use my research, communication, and leadership skills to make a difference in my community.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Education
+**California State University San Marcos**
 
-# Header 1
+*Bachelor of Arts in Political Science (May 2026)*
+*Masters of Science in Supply Chain Analytics (August 2027)*
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Relevant coursework:
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+1. Constitutional Law: Powers of Government (413B)
+2. Constitutional Law: Civil Liberties (413A)
+3. Theories of International Relations
+4. Practice of Political Research
+5. Global Money and Power
+6. World Political Systems
 
 
-### Definition lists can be used with HTML syntax.
+## Work Experience
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Advocacy & Development Intern, San Diegans for Gun Violence Prevention
+*San Diego, CA | Jan 2026 – May 2026*
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+- Supported advocacy and community engagement efforts to reduce gun violence across San Diego County
+- Researched firearm safety policy, local government actions, and violence prevention strategies
+- Built skills in public policy research, nonprofit operations, and grassroots organizing
 
-```
-The final element.
-```
+
+### Student Assistant, CSUSM University Student Union
+*San Marcos, CA | Jan 2024 – May 2026*
+
+- Provided day-to-day operations and customer service to students, staff, and visitors
+- Monitored facility spaces to make sure university policies and safety standards were followed
+- Worked with staff and student leaders to run events smoothly
+
+
+## Leadership Experience
+
+### Interfraternity Council: President
+*Nov 2024 – May 2026*
+- As President, led the governing body for the fraternity community, presided over council meetings, coordinated chapter collaboration, and worked with university officials to support organizational development, accountability, and student engagement.
+
+- Developed skills in leadership, strategic communications, stakeholder engagement, public speaking, governance, meeting facilitation, and organizational management through service in elected campus leadership roles.
+- Managed the full amendment process for governing documents, from research and drafting to feedback and unanimous approval
+- Led a restructuring that grew the executive board from six to nine roles
+
+### Sigma Chi: Annotator (Secretary)
+*April 2025 – May 2026*
+
+- Served as Secretary overseeing chapter operations and strategic planning for a chapter of 55–60 members. Managed meeting agendas, official correspondence, and chapter records while streamlining operations and consolidating redundant processes to improve organizational efficiency.
+- Collaborated with executive board members, alumni advisors, and university administrators to support broader chapter success across strategic planning, event programming, and member engagement
+- Managed chapter service reporting and helped collect 400 community service hours
+- Created templates that made the chapter's documentation more efficient
+
+### Sigma Chi International Undergraduate Representative 
+*June 2025 - June 2026*
+
+- Represented the undergraduate membership in bi-monthly engagements with fraternity leadership across North America, contributing feedback on member education, chapter operations, and organizational initiatives across a network spanning hundreds of chapters. Participated in over 100 revisions to fraternity-wide standards and procedures, helping shape policy that impacts undergraduate members globally.
+
+
+## Completed Projects
+
+**Greece Climate Research Website (Nov 2025)**
+- Researched the political and environmental factors behind climate challenges in Greece
+- Focused on energy policy, economic pressures, and government response
+- Created a website and presentation showing how political institutions and international agreements shaped Greece's sustainability landscape
+The Website: https://greekwaterpollution.weebly.com
+
+
+## Skills
+
+- Policy Research
+- Legislative Research
+- Grassroots Organizing
+- Stakeholder Communication
+- Event Operations
+- Customer Service
+- Document Drafting
+
+## Honors and Training
+
+- Servant Leadership Certificate 
+- Enduring Leadership Certificate
+- Juliet Mattingly, Fraternity & Sorority Life Student of the Year
+- Order of Omega Treasurer (Greek Honor Society)
+- Sigma Chi Chapter Balfour Award Winner
+
+**Thanks for visiting my page!**
