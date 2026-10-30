@@ -68,12 +68,15 @@ LinkedIn: linkedin.com/in/zachary-lewis-655365297
 
 - Represented the undergraduate membership in bi-monthly engagements with fraternity leadership across North America, contributing feedback on member education, chapter operations, and organizational initiatives across a network spanning hundreds of chapters. Participated in over 100 revisions to fraternity-wide standards and procedures, helping shape policy that impacts undergraduate members globally.
 
+## How to Make a Subfolder
+
+![How to make a subpage like this](https:zllewis1.github.io/portfolioguide/)
 
 ## Completed Projects
 
 This Link will take you to my complete projects page
 
-(https://zllewis1.github.io/Projects-Folder/) 
+![Completed Projects](https://zllewis1.github.io/Projects-Folder/) 
 
 ## Skills
 
