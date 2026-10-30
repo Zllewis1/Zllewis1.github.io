@@ -58,13 +58,13 @@ Here is a list of elements that can be used
 ## Screenshots
 
 ### E-Portfolio
-![E-Portfolio](E-Portfolio.png)
+![E-Portfolio](../assets/img/E-Portfolio.png)
 
 ### Repository
-![Repository](Repository.png)
+![Repository](../assets/img/Repository.png)
 
 ### How to Markdown
-![How to Markdown](index.markdown.png)
+![How to Markdown](../assests/img/index.markdown.png)
 
 ### How to clone
 ![How to clone](cloning.png)
