@@ -64,7 +64,7 @@ Here is a list of elements that can be used
 ![Repository](Repository.png)
 
 ### How to Markdown
-![How to Markdown](index.markdown.png)
+![How to Markdown](indexmarkdown.png)
 
 ### How to clone
 ![How to clone](cloning.png)
