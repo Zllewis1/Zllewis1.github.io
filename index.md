@@ -76,7 +76,7 @@ Email: Zacharylew777@gmail.com
 
 This Link will take you to my Educational Milestone page
 
-[Completed Projects](https://zllewis1.github.io/Projects-Folder/) 
+[Educational Milestones](https://zllewis1.github.io/Educational-Milestones/) 
 
 ### OM620 Assignments
 
