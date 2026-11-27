@@ -155,7 +155,8 @@ The transformed SKU table contains 482 SKUs with no missing values. Safety stock
 
 ## What was accomplished in the Assignments 
 
-| Asssignment | What we did |
+| Assignment | What we did |
+| --- | --- |
 | Assignment 1 | Renamed the columns of the data to match the meta data |
 | Assignment 1 | Inspected columns and found things that were out if place | 
 | Assignment 1 | Fixed the different missing values in each column |
