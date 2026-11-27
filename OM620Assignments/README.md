@@ -1,6 +1,6 @@
 # OM 620 Assignments — Transaction Data Cleaning & Safety Stock Analysis
 
-This repository contains work for OM 620 on a supply chain transaction dataset (~790,000 order transactions). The work has two stages:
+This repository contains work for OM 620 on a supply chain transaction dataset that was provided to us and is split into two different assignments
 
 1. **Assignment 1 — Data cleaning and inspection:** preparing the raw transaction data for analysis.
 2. **Assignment 2 — Safety stock:** calculating safety stock for Make-to-Stock (MTS) SKUs at three service levels.
@@ -57,15 +57,15 @@ The transaction data includes the following column headers:
 
 | Column | Description |
 |---|---|
-| `sku_number` | Individual products |
-| `inventory_type` | Type of inventory |
-| `stocking_type` | How the item is stocked (MTS = Make-to-Stock, MTO = Make-to-Order) |
-| `lead_time` | How long replinishment takes in days |
-| `unit_price` | Price per unit |
-| `manufacturing_site` | Site codes for each manufacturing sites|
-| `division_code` | codes for each Division |
-| `transaction_date` | Date of each transaction |
-| `order_quantity` | # of Units ordered |
+| sku_number | Individual products |
+| inventory_type | Type of inventory |
+| stocking_type | How the item is stocked (MTS = Make-to-Stock, MTO = Make-to-Order) |
+| lead_time | How long replinishment takes in days |
+| unit_price | Price per unit |
+| manufacturing_site | Site codes for each manufacturing sites|
+| division_code | codes for each Division |
+| transaction_date | Date of each transaction |
+| order_quantity | # of Units ordered |
 
 ---
 
@@ -75,29 +75,29 @@ The transaction data includes the following column headers:
 
 **What was done**
 
-- **Column names:** Renamed columns to be similar to the ones in meta data.
-- **What we found using `.describe()`:**
-  - *Lead time:* Typical values are 14, 21, and 28 days, but the maximum was 2,800 days. These outliers looked like values multiplied by 100, so they were divided by 100 to match the rest of the data.
-  - *Unit price:* 10 negative prices were found, mostly on transactions with positive values, which suggests there was an error inputing the data. They were converted to absolute values. 
-  - *Order quantity:* 40,630 negative values were found. These could be returns, cancellations, or inventory adjustments, so they were **kept unchanged** rather than changing valid records.
-- **Missing values:**
+- **Column names** Renamed columns to be similar to the ones in meta data.
+- **What we found using .describe()**
+  - *Lead time* Typical values are 14, 21, and 28 days, but the maximum was 2,800 days. These outliers looked like values multiplied by 100, so they were divided by 100 to match the rest of the data.
+  - *Unit price* 10 negative prices were found, mostly on transactions with positive values, which means there was probably an error inputing the data. They were converted to absolute values. 
+  - *Order quantity:* 40,630 negative values were found. These could be returns, cancellations, or inventory adjustments, so they were kept unchanged rather than changing valid records.
+- **Missing values**
 
   | Column | Missing values | The Fix for it |
   |---|---|---|
-  | `sku_number` | 5,238 | Rows dropped  |
-  | `inventory_type` | 19,443 | Filled with `"Unknown"` |
-  | `stocking_type` | 9,900 | Filled with `"Unknown"` |
-  | `manufacturing_site` | 153,569 | Filled with `"Unknown"` |
-  | `division_code` | 55,571 | Filled with `"Unknown"` |
+  | sku_number | 5,238 | Rows dropped  |
+  | inventory_type | 19,443 | Filled with "Unknown" |
+  | stocking_type | 9,900 | Filled with "Unknown" |
+  | manufacturing_site` | 153,569 | Filled with "Unknown" |
+  | division_code | 55,571 | Filled with "Unknown" |
 
-  After cleaning, no column had missing values, so we filled it with `"Unknown"` rather than guessing. this helps us keep the transactions the same without assigning the wrong class to different things.
-- **Sanity checks:** Counted unique SKUs, manufacturing sites, and divisions; listed the top and bottom 10 transactions by order quantity; and created a `total_sales` column (`order_quantity × unit_price`) to find the top and bottom 10 transactions by sales value.
+  After cleaning, no column had missing values, so we filled it with "Unknown" rather than guessing what it could be. this helps us keep the transactions the same without assigning the wrong class to different things.
+- **Sanity checks:** Counted unique SKUs, manufacturing sites, and divisions, listed the top and bottom 10 transactions by order quantity, and created a total_sales column *(order_quantity × unit_price)* to find the top and bottom 10 transactions by sales value.
 
 **Key results from the cleaned dataset**
 
 - 612 unique SKUs
-- 19 known manufacturing sites (plus "Unknown")
-- 54 known divisions (plus "Unknown")
+- 19 known manufacturing sites
+- 54 known divisions
 
 ---
 
@@ -107,10 +107,10 @@ The transaction data includes the following column headers:
 
 **How we did it**
 
-1. Loaded the cleaned dataset from Part 1 (`prepared_data.csv`).
-2. Filtered to Make-to-Stock transactions (`stocking_type == "MTS"`).
+1. Loaded the cleaned dataset from Part 1 (prepared_data.csv).
+2. Filtered to Make-to-Stock transactions (stocking_type == "MTS").
 3. Grouped by SKU and calculated the minimum, maximum, mean, median, variance, and standard deviation of order quantity, plus average lead time.
-4. Calculated Z-scores with `scipy.stats.norm.ppf()` for three different service levels:
+4. Calculated Z-scores with scipy.stats.norm.ppf() for three different service levels:
 
    | Service level | Z-score |
    |---|---|
@@ -124,12 +124,12 @@ The transaction data includes the following column headers:
    Safety Stock = Z × standard deviation(order quantity) × Square root(average lead time)
    ```
 
-**Results at the 95% service level** (as produced by the notebook's current code)
+**Results at the 95% service level**
 
 | Rank | SKU | Safety stock |
 |---|---|---|
-| Highest | `53767219` | 372.58 |
-| Lowest | `9BC2A5C4` | 52.37 |
+| Highest | 53767219 | 372.58 |
+| Lowest | 9BC2A5C4 | 52.37 |
 | Average across all SKUs | — | 141.61 |
 
 The transformed SKU table contains 482 SKUs with no missing values. Safety stock varies across the many different SKUs, and overall is driven by differences in demand and lead time.
@@ -138,14 +138,15 @@ The transformed SKU table contains 482 SKUs with no missing values. Safety stock
 
 ## How to Run
 
-1. Clone the repository and place `transaction_data.csv` and `meta_data.csv` in the `Data/` folder.
+1. Clone the repository and place transaction_data.csv and meta_data.csv in the Data/ folder.
 2. Open VS Code and install the Jupyter Notebook Extension and Python Extension
 3. Install the different packages needed:
-   ```
+
+    ```
    pip install pandas numpy scipy 
    ```
-4. Move your Notebooks to a custom directory in order to run your code and notebooks effeciently as possible
-5. Run the notebook as shown
+5. Move your Notebooks to a custom directory in order to run your code and notebooks effeciently as possible
+6. Run the notebook as shown
 
 **Tools used:** Python, pandas, NumPy, SciPy, VScode(Jupyter Notebook Extension)
 
