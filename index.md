@@ -72,11 +72,17 @@ Email: Zacharylew777@gmail.com
 
 [How to make a subpage like this](https://zllewis1.github.io/portfolio-guide/)
 
-## Completed Projects
+## Educational Milestones
 
-This Link will take you to my complete projects page
+This Link will take you to my Educational Milestone page
 
 [Completed Projects](https://zllewis1.github.io/Projects-Folder/) 
+
+### OM620 Assignments
+
+This Link will take you to my 620 Assignments subpage
+
+[OM620 Assignments](https://zllewis1.github.io/OM620Assignments/) 
 
 ## Skills
 
