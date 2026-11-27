@@ -5,10 +5,14 @@ Email: Zacharylew777@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/zachary-lewis-655365297/)
 
+---
+
 ## Summary
 - I am a recent Political Science graduate from California State University San Marcos with hands-on experience in public policy research, nonprofit advocacy, and student leadership. I enjoy turning research into action, improving how organizations run, and supporting the people around me.
 
 - Looking for opportunities where I can use my research, communication, and leadership skills to make a difference in my community.
+
+---
 
 ### Education
 **California State University San Marcos**
@@ -26,6 +30,7 @@ Email: Zacharylew777@gmail.com
 5. Global Money and Power
 6. World Political Systems
 
+---
 
 ## Work Experience
 
@@ -44,6 +49,7 @@ Email: Zacharylew777@gmail.com
 - Monitored facility spaces to make sure university policies and safety standards were followed
 - Worked with staff and student leaders to run events smoothly
 
+---
 
 ## Leadership Experience
 
@@ -68,6 +74,8 @@ Email: Zacharylew777@gmail.com
 
 - Represented the undergraduate membership in bi-monthly engagements with fraternity leadership across North America, contributing feedback on member education, chapter operations, and organizational initiatives across a network spanning hundreds of chapters. Participated in over 100 revisions to fraternity-wide standards and procedures, helping shape policy that impacts undergraduate members globally.
 
+---
+
 ## How to Make a Subfolder
 
 [How to make a subpage like this](https://zllewis1.github.io/portfolio-guide/)
@@ -84,15 +92,20 @@ This Link will take you to my 620 Assignments subpage
 
 [OM620 Assignments](https://zllewis1.github.io/OM620Assignments/) 
 
-## Skills
+---
 
-- Policy Research
-- Legislative Research
-- Grassroots Organizing
-- Stakeholder Communication
-- Event Operations
-- Customer Service
-- Document Drafting
+## Learned Skills 
+
+- Policy Research  
+- Legislative Research 
+- Grassroots Organizing 
+- Stakeholder Communication 
+- Event Operations 
+- Customer Service 
+- Document Drafting 
+- Python 
+- Power BI 
+- SQL 
 
 ## Honors and Training
 
