@@ -77,9 +77,9 @@ The transaction data includes the following column headers:
 
 - **Column names** Renamed columns to be similar to the ones in meta data.
 - **What we found using .describe()**
-  - *Lead time* Typical values are 14, 21, and 28 days, but the maximum was 2,800 days. These outliers looked like values multiplied by 100, so they were divided by 100 to match the rest of the data.
-  - *Unit price* 10 negative prices were found, mostly on transactions with positive values, which means there was probably an error inputing the data. They were converted to absolute values. 
-  - *Order quantity:* 40,630 negative values were found. These could be returns, cancellations, or inventory adjustments, so they were kept unchanged rather than changing valid records.
+  - Lead time Typical values are 14, 21, and 28 days, but the maximum was 2,800 days. These outliers looked like values multiplied by 100, so they were divided by 100 to match the rest of the data.
+  - Unit price 10 negative prices were found, mostly on transactions with positive values, which means there was probably an error inputing the data. They were converted to absolute values. 
+  - Order quantity: 40,630 negative values were found. These could be returns, cancellations, or inventory adjustments, so they were kept unchanged rather than changing valid records.
 - **Missing values**
 
   | Column | Missing values | The Fix for it |
