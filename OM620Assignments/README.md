@@ -165,6 +165,7 @@ The transformed SKU table contains 482 SKUs with no missing values. Safety stock
 | Created a total_sales column and found the top and bottom 10 transactions by sales value |
 
 | **Assignment 2** |
+| --- |
 | Using the cleaned data from Assignment 1 it was filtered to MTS items |
 | Grouped the data by SKU's and calculated the Range, Mean, Median, Variance, and Standard Deviation |
 | Calculated the Z-scores for 75%,90%, and 95% service levels |
