@@ -5,7 +5,7 @@ This subpage showcases some of the the things I have learned and accomplished du
 1. **Assignment 1 — Data cleaning and inspection:** preparing the raw transaction data for analysis.
 2. **Assignment 2 — Safety stock:** calculating safety stock for Make-to-Stock (MTS) SKUs at three service levels.
 
-Both assignments are combined in a single notebook, so the full understanding of what we did and how it was done can be read by everyone from top to bottom
+Both assignments are combined in a single notebook in the README.md file in GitHub, so the full understanding of what we did and how it was done can be read by everyone from top to bottom and reproduced also
 
 ---
 
