@@ -1,6 +1,6 @@
 # OM 620 Assignments — Transaction Data Cleaning & Safety Stock Analysis
 
-This repository contains work for OM 620 on a supply chain transaction dataset that was provided to us and is split into two different assignments
+This subpage showcases some of the the things I have learned and accomplished during my time in OM620, there are guides for the data what some of the values are and what I have learned as well
 
 1. **Assignment 1 — Data cleaning and inspection:** preparing the raw transaction data for analysis.
 2. **Assignment 2 — Safety stock:** calculating safety stock for Make-to-Stock (MTS) SKUs at three service levels.
