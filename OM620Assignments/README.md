@@ -155,22 +155,22 @@ The transformed SKU table contains 482 SKUs with no missing values. Safety stock
 
 ## What was accomplished in the Assignments 
 
-|**Assignment 1**|
-|Renamed the columns of the data to match the meta data|
-|Inspected columns and found things that were out if place|
-|Fixed the different missing values in each column|
-|Counted SKU's,Manufacturing sites, and Divisions|
-|Found the top and bottom 10 transactions by quantity|
-|Created a total_sales column and found the top and bottom 10 transactions by sales value|
+| **Assignment 1** |
+| Renamed the columns of the data to match the meta data |
+| Inspected columns and found things that were out if place | 
+| Fixed the different missing values in each column |
+| Counted SKU's,Manufacturing sites, and Divisions |
+| Found the top and bottom 10 transactions by quantity |
+| Created a total_sales column and found the top and bottom 10 transactions by sales value |
 
-|**Assignment 2**|
-|Using the cleaned data from Assignment 1 it was filtered to MTS items|
-|Grouped the data by SKU's and calculated the| 
+| **Assignment 2** |
+| Using the cleaned data from Assignment 1 it was filtered to MTS items |
+| Grouped the data by SKU's and calculated the | 
    - Range 
    - Mean 
    - Median
    - Variance
    - Standard Deviation
-|Calculated the Z-scores for 75%,90%, and 95% service levels|
-|Applied to saftey stock formula to every SKU at all three service levels|
-|Identified the saftey stock and average at a 95% service level|
+| Calculated the Z-scores for 75%,90%, and 95% service levels |
+| Applied to saftey stock formula to every SKU at all three service levels |
+| Identified the saftey stock and average at a 95% service level |
