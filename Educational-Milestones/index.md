@@ -10,7 +10,7 @@
 
 ---
 
-** OM620 Assignments **
+**OM620 Assignments**
 - This subpage showcases some of the the things I have learned and accomplished during my time in OM620 including
 - Python
   - Data cleaning
